@@ -1,0 +1,15 @@
+# ML Case Studies
+- Case Study 1
+    - Linear Regression with a focus on L1 and L2 Regularization
+- Case Study 2
+    - Multi Class Logistic Regression
+- Case Study 3
+    - Text Classification using Clustering and Naive Bayes
+- Case Study 4
+    - Binary Classification using RandomForest and XGBoost
+- Case Study 5
+    - Support Vector Machines and Stochastic Gradient Descent
+- Case Study 6
+    - Dense Neural Networks (Pytorch)
+- Case Study 7
+    - Freedom of choice, I chose Neural Network (Pytorch)
